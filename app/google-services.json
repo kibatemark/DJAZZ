@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004416107214",
+    "firebase_url": "https://djazz-83e4b.firebaseio.com",
+    "project_id": "djazz-83e4b",
+    "storage_bucket": "djazz-83e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004416107214:android:fe6387ba60cec48cdc869f",
+        "android_client_info": {
+          "package_name": "com.example.djazz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004416107214-67l8u51uu2e5ji5fmfh5455tko2khq5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.djazz",
+            "certificate_hash": "3d848d8c3f4d02dfc595089bdf275a5f18e00bb2"
+          }
+        },
+        {
+          "client_id": "1004416107214-p09o51uv3a1hocjflkeefcoel8k9uman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FO7a8xhCv7FEe8L7-fsSGbflPH5fS04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004416107214-p09o51uv3a1hocjflkeefcoel8k9uman.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DJAZZ</string>
+    <string name="comet_app_id">74162605767700</string>
+    <string name="comet_api_key">8bddee47098b2a8a6063afa74578ffb6d8e536d6</string>
+    <string name="hint">Type Message</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signin">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="user">User name</string>
+
+</resources>
